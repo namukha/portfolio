@@ -1,0 +1,22 @@
+.header {
+  text-align: end;
+  padding-top: 30px;
+  padding-right: 70px;
+}
+
+.header img {
+  width: 200px;
+}
+
+.head {
+  font-size: 2rem;
+}
+
+.content {
+  padding: 20px;
+}
+
+.icons img {    
+  padding: 10px;
+  padding-left: 20px;
+}
